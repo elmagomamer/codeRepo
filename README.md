@@ -1,4 +1,3 @@
-codeRepo
-========
+hello world
 
-just another reopsitory
+hi humans!
