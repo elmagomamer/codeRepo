@@ -4,6 +4,7 @@ second cange
 
 local change
 
+<<<<<<< HEAD
 ------
 new line
 ------
@@ -13,3 +14,8 @@ local change
 -----
 other change
 ------
+=======
+-----
+other change
+------
+>>>>>>> branch 'master' of https://github.com/elmagomamer/codeRepo.git
