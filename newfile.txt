@@ -7,3 +7,9 @@ local change
 ------
 new line
 ------
+
+local change
+
+-----
+other change
+------
