@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 dsffsssssssssss
 
 second cange
@@ -15,3 +16,26 @@ other change
 ------
 
 ++++++++++++++++++++++++
+=======
+dsffsssssssssss
+
+second cange
+
+local change
+
+------
+new line
+------
+
+local change
+
+-----
+other change
+------
+
+-----
+other change
+------
+
+++++++++++++++++++++++++
+>>>>>>> branch 'master' of https://github.com/elmagomamer/codeRepo.git
